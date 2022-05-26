@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>SubCtg01</fullName>
+        <default>false</default>
+        <label>Professional developments  (Information on courses funded and fully or partially supervised by the Division)</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg02</fullName>
+        <default>false</default>
+        <label>45+</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg03</fullName>
+        <default>false</default>
+        <label>Add a section of the engineering system</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg04</fullName>
+        <default>false</default>
+        <label>Alergic child</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg05</fullName>
+        <default>false</default>
+        <label>Appointment of foremen at construction sites</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg06</fullName>
+        <default>false</default>
+        <label>Assigning and placement</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg07</fullName>
+        <default>false</default>
+        <label>Attendance Calendar</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg08</fullName>
+        <default>false</default>
+        <label>Call Center Activity</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg09</fullName>
+        <default>false</default>
+        <label>Cameras and Security</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg10</fullName>
+        <default>false</default>
+        <label>Charedim</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg11</fullName>
+        <default>false</default>
+        <label>Completing studies</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg12</fullName>
+        <default>false</default>
+        <label>Conduct of a center or complaint about DayCare center</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg13</fullName>
+        <default>false</default>
+        <label>Conduct of colleges</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg14</fullName>
+        <default>false</default>
+        <label>Costs and Levels</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg15</fullName>
+        <default>false</default>
+        <label>Day Care centers construction</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg16</fullName>
+        <default>false</default>
+        <label>Detention of emergency personnel</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg17</fullName>
+        <default>false</default>
+        <label>Diploma and entitlement</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg18</fullName>
+        <default>false</default>
+        <label>Diplomas</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg19</fullName>
+        <default>false</default>
+        <label>Document Completion Status</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg20</fullName>
+        <default>false</default>
+        <label>Double payment of a fee or request to cancel an increased fee</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg21</fullName>
+        <default>false</default>
+        <label>Elevator and escalator malfunctions</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg22</fullName>
+        <default>false</default>
+        <label>Employee inquiries</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg23</fullName>
+        <default>false</default>
+        <label>Employee Rights (General)</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg24</fullName>
+        <default>false</default>
+        <label>Employer inquiries</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg25</fullName>
+        <default>false</default>
+        <label>Enforcing safety regulations</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg26</fullName>
+        <default>false</default>
+        <label>Essential factories</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg27</fullName>
+        <default>false</default>
+        <label>Ethiopians</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg28</fullName>
+        <default>false</default>
+        <label>Final Project</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg29</fullName>
+        <default>false</default>
+        <label>Finance and tuition</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg30</fullName>
+        <default>false</default>
+        <label>General Information</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg31</fullName>
+        <default>false</default>
+        <label>General rights</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg32</fullName>
+        <default>false</default>
+        <label>General rights in small businesses</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg33</fullName>
+        <default>false</default>
+        <label>Hi-tech personnel</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg34</fullName>
+        <default>false</default>
+        <label>Human resources contractors</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg35</fullName>
+        <default>false</default>
+        <label>Labor agreements and collective contracts</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg36</fullName>
+        <default>false</default>
+        <label>Labor dispute</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg37</fullName>
+        <default>false</default>
+        <label>Labor Law Enforcement (General)</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg38</fullName>
+        <default>false</default>
+        <label>License threshold conditions</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg39</fullName>
+        <default>false</default>
+        <label>Licensing of safety officials</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg40</fullName>
+        <default>false</default>
+        <label>Minority group</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg41</fullName>
+        <default>false</default>
+        <label>Objection for levels or assignments</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg42</fullName>
+        <default>false</default>
+        <label>Objections</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg43</fullName>
+        <default>false</default>
+        <label>Occupational diseases</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg44</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg45</fullName>
+        <default>false</default>
+        <label>Pay reviewers</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg46</fullName>
+        <default>false</default>
+        <label>People with disabilities</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg47</fullName>
+        <default>false</default>
+        <label>Personal vouchers</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg48</fullName>
+        <default>false</default>
+        <label>Preliminary approval for activating a center</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg49</fullName>
+        <default>false</default>
+        <label>Professional schools</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg50</fullName>
+        <default>false</default>
+        <label>Receiving a certificate or license</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg51</fullName>
+        <default>false</default>
+        <label>Receiving recognition for a course</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg52</fullName>
+        <default>false</default>
+        <label>Registration certificate</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg53</fullName>
+        <default>false</default>
+        <label>Registration in the Electricians Register</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg54</fullName>
+        <default>false</default>
+        <label>Registration in the Register of Certified Engineers and Technicians</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg55</fullName>
+        <default>false</default>
+        <label>Reporting hazards on construction sites</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg56</fullName>
+        <default>false</default>
+        <label>Request Status</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg57</fullName>
+        <default>false</default>
+        <label>Safety training</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg58</fullName>
+        <default>false</default>
+        <label>Services (cleaning or security)</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg59</fullName>
+        <default>false</default>
+        <label>Single parents</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg60</fullName>
+        <default>false</default>
+        <label>Specialties and exams</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg61</fullName>
+        <default>false</default>
+        <label>Subscription History</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg62</fullName>
+        <default>false</default>
+        <label>Technical glitch</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg63</fullName>
+        <default>false</default>
+        <label>Technical glitch in online registry</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg64</fullName>
+        <default>false</default>
+        <label>Tests (/Practical tests)</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg65</fullName>
+        <default>false</default>
+        <label>Threshold conditions and admissions for studies</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg66</fullName>
+        <default>false</default>
+        <label>Threshold conditions for obtaining a license</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg67</fullName>
+        <default>false</default>
+        <label>Tuition and grants</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg68</fullName>
+        <default>false</default>
+        <label>Women&apos;s Employment Law</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg69</fullName>
+        <default>false</default>
+        <label>Work accidents</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg70</fullName>
+        <default>false</default>
+        <label>Workers in the center</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg71</fullName>
+        <default>false</default>
+        <label>Working and resting hours law</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg72</fullName>
+        <default>false</default>
+        <label>Young people at risk</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg73</fullName>
+        <default>false</default>
+        <label>Youth work</label>
+    </customValue>
+    <customValue>
+        <fullName>SubCtg74</fullName>
+        <default>false</default>
+        <label>Licensed Permits Request</label>
+    </customValue>
+    <customValue>
+        <fullName>(Information on courses funded and fully or partially supervised by the Division)&quot;</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>(Information on courses funded and fully or partially supervised by the Division)&quot;</label>
+    </customValue>
+    <masterLabel>Case Sub-Category</masterLabel>
+    <sorted>true</sorted>
+</GlobalValueSet>

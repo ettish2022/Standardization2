@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Ctg01</fullName>
+        <default>false</default>
+        <label>Day Care</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg02</fullName>
+        <default>false</default>
+        <label>Emergency personnel</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg03</fullName>
+        <default>false</default>
+        <label>Employment of special populations</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg04</fullName>
+        <default>false</default>
+        <label>Industrial relations</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg05</fullName>
+        <default>false</default>
+        <label>Licensing electricians</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg06</fullName>
+        <default>false</default>
+        <label>Occupational Safety and Health</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg07</fullName>
+        <default>false</default>
+        <label>Professional development</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg08</fullName>
+        <default>false</default>
+        <label>Registration and licensing of engineers and architects</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg09</fullName>
+        <default>false</default>
+        <label>Registration of Engineers and Technicians</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg10</fullName>
+        <default>false</default>
+        <label>Regulating and enforcing work topics</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg11</fullName>
+        <default>false</default>
+        <label>Rights of foreign workers at work</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg12</fullName>
+        <default>false</default>
+        <label>Technological training</label>
+    </customValue>
+    <customValue>
+        <fullName>Ctg13</fullName>
+        <default>false</default>
+        <label>Regulation of Occupation</label>
+    </customValue>
+    <masterLabel>Case Category</masterLabel>
+    <sorted>true</sorted>
+</GlobalValueSet>

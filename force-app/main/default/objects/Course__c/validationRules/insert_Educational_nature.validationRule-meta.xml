@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>insert_Educational_nature</fullName>
+    <active>true</active>
+    <description>במידה והתכנית היא לא מסלול פתוח/כיתה בהייטק/כיתה בעבודה/המסלול הירוק - יש לאכוף הכנסת ערך בשדה אופי הלימודים.</description>
+    <errorConditionFormula>and(not(or(ISPICKVAL(StudiesType__c ,&apos;מקוון&apos;),ISPICKVAL(StudiesType__c ,&apos;פרונטלי&apos;),ISPICKVAL(StudiesType__c ,&apos;היברידי&apos;))),not(or(Program__r.Name  = &apos;מסלול פתוח&apos;, Program__r.Name  = &apos;המסלול הירוק&apos;, Program__r.Name  = &apos;כיתה בעבודה&apos;, Program__r.Name  = &apos;כיתה בהייטק&apos;)))&amp;&amp;RecordType.DeveloperName =&quot;Course&quot;</errorConditionFormula>
+    <errorMessage>יש לבחור אופי לימודים</errorMessage>
+</ValidationRule>

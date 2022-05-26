@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <article>None</article>
+        <plural>false</plural>
+        <value>Account Portfolio</value>
+    </caseValues>
+    <caseValues>
+        <article>None</article>
+        <plural>true</plural>
+        <value>Account Portfolio</value>
+    </caseValues>
+    <gender>Masculine</gender>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>RegulationOfOccupation</name>
+    </recordTypes>
+</CustomObjectTranslation>

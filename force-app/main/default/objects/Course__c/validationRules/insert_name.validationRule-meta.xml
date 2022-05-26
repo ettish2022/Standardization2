@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>insert_name</fullName>
+    <active>false</active>
+    <description>במידה והתוכנית היא לא אחת מהתוכניות: מסלול פתוח/המסלול הירוק/כיתה בעבודה/כיתה בהייטק, יש לאכוף הכנסת ערך בשדה &quot;שם מגמה&quot;.</description>
+    <errorConditionFormula>and(ISBLANK(ProfessionCourse__c),not(or(Program__r.Name = &apos;מסלול פתוח&apos;, Program__r.Name = &apos;המסלול הירוק&apos;, Program__r.Name = &apos;כיתה בעבודה&apos;, Program__r.Name = &apos;כיתה בהייטק&apos;)))&amp;&amp;RecordType.DeveloperName =&quot;Course&quot;</errorConditionFormula>
+    <errorDisplayField>ProfessionCourse__c</errorDisplayField>
+    <errorMessage>יש לבחור מגמה</errorMessage>
+</ValidationRule>

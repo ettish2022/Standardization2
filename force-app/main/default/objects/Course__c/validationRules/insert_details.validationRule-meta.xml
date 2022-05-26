@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>insert_details</fullName>
+    <active>true</active>
+    <description>במידה והתכנית היא מסלול פתוח/כיתה בהייטק/כיתה בעבודה/המסלול הירוק- יש לאכוף הכנסת מידע בשדות: שם הכשרה, היקף לימודים מוגדר במוסד ותחום .</description>
+    <errorConditionFormula>AND(OR(ISBLANK(training__c),ISBLANK(Scope_study_Institution__c),ISBLANK(domain__c)),ISBLANK(ProfessionCourse__c))&amp;&amp;RecordType.DeveloperName =&quot;Course&quot;</errorConditionFormula>
+    <errorMessage>יש למלא את שם ההכשרה, היקף לימודים מוגדר במוסד ותחום</errorMessage>
+</ValidationRule>
